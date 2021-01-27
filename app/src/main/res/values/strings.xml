@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gov Mandi</string>
+    <string name="commodity">commodity</string>
+    <string name="app_name1">Gov</string>
+    <string name="app_name2">Mandi</string>
+    <string name="text_please_wait">Please wait..</string>
+    <string name="text_bookListViewTitle">Groceries</string>
+    <string name="text_DeveloperIntro">Developed by: Abhishek Chauhan</string>
+</resources>
